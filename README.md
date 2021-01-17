@@ -23,7 +23,7 @@ Desde entonces no he dejado de formarme en distintas tecnologías, tantas como m
 
 Hay tantas tecnologías actualmente que es imposible no encontrar aquella que te guste...
 
-Para mi nunca se deje de aprender y mi premisa es que *no te preocupes por el fracaso, preocúpate por las oportunidades que pierdes al no intentarlo*. 💪🏼
+Para mi nunca se deje de aprender y mi premisa es que "*no te preocupes por el fracaso, preocúpate por las oportunidades que pierdes al no intentarlo*." 💪🏼
 
 Me encantaría afrontar nuevos retos profesionales en el desarrollo de aplicaciones nativas iOS o híbridas con Flutter. Si necesitas a alguién con ganas, hablemos, puede ser el inicio de una bonita historia.
 
