@@ -19,10 +19,9 @@ Desde entonces no he dejado de formarme en distintas tecnologías, tantas como m
 
 - En 2019: *Diploma en Aplicaciones iOS* en la *UNED*.
 
-- En 2020: *Full Stack Mobile Bootcamp* en *KeepCoding*.
+- En 2020: [*Full Stack Mobile Bootcamp*](https://keepcoding.io/nuestros-bootcamps/full-stack-mobile-bootcamp/) en *KeepCoding*.
 
 Hay tantas tecnologías actualmente que es imposible no encontrar aquella que te guste...
-
 
 Para mi nunca se deje de aprender y mi premisa es que *no te preocupes por el fracaso, preocúpate por las oportunidades que pierdes al no intentarlo*.
 
