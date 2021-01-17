@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Mi nombre es [Jorge Santamaría Poveda](https://es.linkedin.com/in/jsantamariap), ingeniero técnico en informática de gestión por la *Universidad de Alicante / Universitat d'Alacant UA* en 2001.
+Mi nombre es [Jorge Santamaría Poveda](https://es.linkedin.com/in/jsantamariap), Ingeniero Técnico en Informática de Gestión por la *Universidad de Alicante / Universitat d'Alacant UA* en 2001.
 
 Durante el año 2002 y principios de 2003 estuve vinculado con la empresa *Grupo Informático ITEM*, primero como alumno de un programa formativo y después como programador en prácticas en *Objetive COBOL*.
 
@@ -23,7 +23,7 @@ Desde entonces no he dejado de formarme en distintas tecnologías, tantas como m
 
 Hay tantas tecnologías actualmente que es imposible no encontrar aquella que te guste...
 
-Para mi nunca se deje de aprender y mi premisa es que *no te preocupes por el fracaso, preocúpate por las oportunidades que pierdes al no intentarlo*.
+Para mi nunca se deje de aprender y mi premisa es que *no te preocupes por el fracaso, preocúpate por las oportunidades que pierdes al no intentarlo*. 💪🏼
 
 Me encantaría afrontar nuevos retos profesionales en el desarrollo de aplicaciones nativas iOS o híbridas con Flutter. Si necesitas a alguién con ganas, hablemos, puede ser el inicio de una bonita historia.
 
