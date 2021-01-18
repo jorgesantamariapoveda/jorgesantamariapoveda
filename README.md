@@ -21,7 +21,7 @@ No he dejado de formarme en distintas tecnologías, tantas como mis obligaciones
 
 - En 2020: [*Full Stack Mobile Bootcamp*](https://keepcoding.io/nuestros-bootcamps/full-stack-mobile-bootcamp/) en *KeepCoding*, con varios proyectos (iOS, Android y Flutter) publicados en [Github](https://github.com/jorgesantamariapoveda?tab=repositories).
 
-Me encantaría afrontar nuevos retos profesionales en el desarrollo de aplicaciones nativas iOS o híbridas con Flutter. Si necesitas a alguién con ganas e ilusión, [escríbeme](jorgesantamariapoveda@gmail.com), puede ser el inicio de una bonita historia.
+Me encantaría afrontar nuevos retos profesionales en el desarrollo de aplicaciones nativas iOS o híbridas con Flutter. Si necesitas a alguién con ganas e ilusión no dudes en contactar conmigo.
 
 
 
