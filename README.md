@@ -4,7 +4,7 @@ Mi nombre es [Jorge Santamaría Poveda](https://es.linkedin.com/in/jsantamariap)
 
 Durante el año 2002 y principios de 2003 estuve vinculado con la empresa *Grupo Informático ITEM*, primero como alumno de un programa formativo y después como programador en prácticas en *Objetive COBOL*.
 
-En 2003 realicé el *CAP | Certificado de Aptitud Pedagógica* en la *UA*, realizando las prácticas en el IES San Vicente impartiendo el módulo de Microsoft Access.
+En 2003 cursé el *CAP | Certificado de Aptitud Pedagógica* en la *UA*, realizando las prácticas en el IES San Vicente impartiendo el módulo de Microsoft Access.
 
 Desde 2004 trabajo como desarrollador de software en la empresa española *CYPE Ingenieros*. Mis tareas son básicamente dos:
 
@@ -21,8 +21,6 @@ No he dejado de formarme en distintas tecnologías, tantas como mis obligaciones
 
 - En 2020: [*Full Stack Mobile Bootcamp*](https://keepcoding.io/nuestros-bootcamps/full-stack-mobile-bootcamp/) en *KeepCoding*, con varios proyectos (iOS, Android y Flutter) publicados en [Github](https://github.com/jorgesantamariapoveda?tab=repositories).
 
-Me encantaría afrontar nuevos retos profesionales en el desarrollo de aplicaciones nativas iOS o híbridas con Flutter. Si necesitas a alguién con ganas e ilusión no dudes en contactar conmigo 😃
+Para el 2021 me encantaría afrontar nuevos retos profesionales en el desarrollo de aplicaciones nativas iOS. Si necesitas a alguién con ganas e ilusión no dudes en contactar conmigo 😃.
 
-
-
-
+*Nunca se deja de aprender*.
