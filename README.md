@@ -15,11 +15,11 @@ Desde 2004 trabajo como desarrollador de software en la empresa española *CYPE 
 
 No he dejado de formarme en distintas tecnologías, tantas como mis obligaciones laborales y familiares me lo han permitido, siendo las más destacadas las siguientes:
 
-- En 2016: *Experto Universitario en Desarrollo de Aplicaciones Web con Java EE* en la *U.A*.
+- En 2016: [Experto Universitario en Desarrollo de Aplicaciones Web con Java EE] (http://expertojava.ua.es/experto/publico/2015-16/) en la *Universidad de Alicante / Universitat d'Alacant U.A*
 
-- En 2019: *Diploma en Aplicaciones iOS* en la *U.N.E.D*, donde como proyecto final del curso se realizó una aplicación desarrollada en colaboración con el Hospital 12 de Octubre de Madrid y la asociación Menudos Corazones llamada **Recardios** disponible en el App Store y mencionada en el 13º Congreso Nacional de la Sociedad Española de Cardiología Pediátrica y Cardiopatías Congénitas en su [programa](https://www.congreso-secpcc.com/programa/).
+- En 2019: [Diploma en Aplicaciones iOS con Swift](https://formacionpermanente.uned.es/tp_actividad/idactividad/10849) en la *U.N.E.D*, donde como proyecto final del curso se realizó una aplicación desarrollada en colaboración con el Hospital 12 de Octubre de Madrid y la asociación Menudos Corazones llamada **Recardios** disponible en el App Store y mencionada en el 13º Congreso Nacional de la Sociedad Española de Cardiología Pediátrica y Cardiopatías Congénitas en su [programa](https://www.congreso-secpcc.com/programa/).
 
-- En 2020: [*Full Stack Mobile Bootcamp*](https://keepcoding.io/nuestros-bootcamps/full-stack-mobile-bootcamp/) en *KeepCoding*, con varios proyectos (iOS, Android y Flutter) publicados en [Github](https://github.com/jorgesantamariapoveda?tab=repositories).
+- En 2020: [Full Stack Mobile Bootcamp](https://keepcoding.io/nuestros-bootcamps/full-stack-mobile-bootcamp/) en *KeepCoding*, con varios proyectos (iOS, Android y Flutter) publicados en [Github](https://github.com/jorgesantamariapoveda?tab=repositories).
 
 Para el 2021 me encantaría afrontar nuevos retos profesionales en el desarrollo de aplicaciones nativas iOS. Si necesitas a alguién con ganas e ilusión no dudes en contactar conmigo 😃.
 
