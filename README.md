@@ -16,9 +16,9 @@ Desde 2004 trabajo como desarrollador de software en la empresa española *CYPE 
 No he dejado de formarme en distintas tecnologías, tantas como mis obligaciones laborales y familiares me lo han permitido, siendo las más destacadas las siguientes:
 
 - En 2021: 
-  - [Desarrollo de apps en iOS y iPadOS 14 con UIKit](https://https://acoding.academy/) en *Apple Coding Academy*,
-  - [Desarrollo de apps con SwiftUI y Combine](https://https://acoding.academy/) en *Apple Coding Academy*,
-  - [Ciclo TDD, GIT, CD y C](https://https://acoding.academy/) en *Apple Coding Academy*,
+  - [Desarrollo de apps en iOS y iPadOS 14 con UIKit](https://acoding.academy/) en *Apple Coding Academy*,
+  - [Desarrollo de apps con SwiftUI y Combine](https://acoding.academy/) en *Apple Coding Academy*,
+  - [Ciclo TDD, GIT, CD y C](https://acoding.academy/) en *Apple Coding Academy*,
 
 - En 2020: [Full Stack Mobile Bootcamp](https://keepcoding.io/nuestros-bootcamps/full-stack-mobile-bootcamp/) en *KeepCoding*, con varios proyectos (iOS, Android y Flutter) publicados en [Github](https://github.com/jorgesantamariapoveda?tab=repositories).
 
