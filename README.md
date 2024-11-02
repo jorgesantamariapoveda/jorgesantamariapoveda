@@ -9,7 +9,7 @@ Poseo una alta capacidad para trabajar en equipo y empatizar, experiencia en la 
 - Programador Objective Cobol 🗓 2002-2003
 
 **📖 Formación**
-- Ingeniería Técnica en Informática de Gestión. *Universidad de Alicante / Universitat d'Alacant*
+- [Ingeniería Técnica en Informática de Gestión](https://web.ua.es/es/oia/documentos/publicaciones/planes-a-extinguir/informatica-gestion.pdf). *Universidad de Alicante / Universitat d'Alacant*
 - [Ciclo TDD, GIT, CI/CD](https://acoding.academy/). *Apple Coding Academy*
 - [Desarrollo de apps con SwiftUI y Combine](https://acoding.academy/) . *Apple Coding Academy*
 - [Desarrollo de apps en iOS y iPadOS 14 con UIKit](https://acoding.academy/). *Apple Coding Academy*.
