@@ -10,6 +10,7 @@ Poseo una alta capacidad para trabajar en equipo y empatizar, experiencia en la 
 
 **📖 Formación**
 - [Ingeniería Técnica en Informática de Gestión](https://web.ua.es/es/oia/documentos/publicaciones/planes-a-extinguir/informatica-gestion.pdf). *Universidad de Alicante / Universitat d'Alacant*
+- [Swift Refresh Workshop](https://acoding.academy/formaciones/swift-refresh-workshop/). *Apple Coding Academy*
 - [Ciclo TDD, GIT, CI/CD](https://acoding.academy/). *Apple Coding Academy*
 - [Desarrollo de apps con SwiftUI y Combine](https://acoding.academy/) . *Apple Coding Academy*
 - [Desarrollo de apps en iOS y iPadOS 14 con UIKit](https://acoding.academy/). *Apple Coding Academy*.
