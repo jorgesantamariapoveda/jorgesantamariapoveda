@@ -12,10 +12,10 @@ Poseo una alta capacidad para trabajar en equipo y empatizar, experiencia en la 
 - [Ingeniería Técnica en Informática de Gestión](https://web.ua.es/es/oia/documentos/publicaciones/planes-a-extinguir/informatica-gestion.pdf). *Universidad de Alicante / Universitat d'Alacant*
 - [Swift Refresh Workshop](https://acoding.academy/formaciones/swift-refresh-workshop/). *Apple Coding Academy*
 - [Ciclo TDD, GIT, CI/CD](https://acoding.academy/). *Apple Coding Academy*
-- [Desarrollo de apps con SwiftUI y Combine](https://acoding.academy/) . *Apple Coding Academy*
+- [Desarrollo de apps con SwiftUI y Combine](https://acoding.academy/). *Apple Coding Academy*
 - [Desarrollo de apps en iOS y iPadOS 14 con UIKit](https://acoding.academy/). *Apple Coding Academy*
 - [Full Stack Mobile Bootcamp](https://keepcoding.io/nuestros-bootcamps/full-stack-mobile-bootcamp/). *KeepCoding*
-- [Diploma de Experto Profesional en Aplicaciones iOS con Swift](https://formacionpermanente.uned.es/tp_actividad/idactividad/10849) *Universidad Nacional de Educación a Distancia - U.N.E.D*
+- [Diploma de Experto Profesional en Aplicaciones iOS con Swift](https://formacionpermanente.uned.es/tp_actividad/idactividad/10849). *Universidad Nacional de Educación a Distancia - U.N.E.D*
 - [Experto Universitario en Desarrollo de Aplicaciones Web con Java EE](http://expertojava.ua.es/experto/publico/2015-16/). *Universidad de Alicante / Universitat d'Alacant*
 
 👀 ***Nunca se deja de aprender***
